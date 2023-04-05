@@ -1,8 +1,6 @@
 # Vault - Getting Started Demo
 
-> TODO: Update Support Links for the Service Definition and further how-tos and workshops
-
-This demo is intended for BCGov Development Teams on the OpenShift Silver or Gold Service Clusters that have read through the Vault Service definition, and wish to confirm Vault is functioning as expected in their namespaces.
+This demo is intended for BCGov Development Teams on the OpenShift Silver or Gold Service Clusters that have read through [the Vault Service definition](https://docs.developer.gov.bc.ca/vault-secrets-management-service/), and wish to confirm Vault is functioning as expected in their namespaces.
 
 ## Generating Deployment Manifests for Testing
 
